@@ -1,0 +1,48 @@
+<head>
+  <meta charset="utf-8" />
+  <title>{{ .Title }}</title>
+
+  {{ "<!-- mobile responsive meta -->" | safeHTML }}
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  {{ with .Site.Params.author }}
+  <meta name="author" content="{{ . }}">
+  {{ end }}
+  {{ hugo.Generator }}
+
+  {{ "<!-- Bootstrap -->" | safeHTML }}
+  {{ $bootstrap := resources.Get "css/bootstrap.css" | minify }}
+  <link rel="stylesheet" href="{{ $bootstrap.Permalink }}" />
+  {{ "<!-- font-awesome -->" | safeHTML }}
+  <link rel="stylesheet" href="{{ "font-awesome/css/font-awesome.min.css" | absURL }}" />
+  {{ "<!-- Main Stylesheets -->" | safeHTML }}
+  {{ $style := resources.Get "scss/style.scss" | resources.ToCSS | minify }}
+  <link href="{{ $style.Permalink }}" rel="stylesheet" />
+  {{ range .Site.Params.customCSS }}
+  <link rel="stylesheet" href="{{ . | absURL}}">
+  {{ end }}
+  <!-- Enable SNS card-->
+  <meta property="og:site_name"           content="{{ .Site.Title }}">
+  <meta property="og:title"               content="{{ .Title }}">
+  <meta property="og:url"                 content="{{ .Permalink | absURL }}">
+  <meta property="og:type"                content="website">
+  <meta name="twitter:card"               content="summary_large_image">
+  <meta property="twitter:title"          content="{{ .Title }}">
+  {{ with .Params.description }}
+  <meta property="og:description"         content="{{ . }}">
+  <meta property="twitter:description"    content="{{ . }}">
+  {{ end }}
+  <meta property="og:image"       content="{{ .Site.Params.og_image | absURL }}">
+  <meta property="og:image:url"   content="{{ .Site.Params.og_image | absURL }}">
+
+  <!--Favicon-->
+  <!--<link rel="shortcut icon" href="{{ "images/favicon.png" | absURL }}" type="image/x-icon" />-->
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "images/apple-touch-icon.png"| absURL }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "images/favicon-32x32.png"| absURL }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ "images/favicon-16x16.png"| absURL }}">
+  <link rel="manifest" href="{{ "images/site.webmanifest"| absURL }}">
+  <link rel="mask-icon" href="{{ "images/safari-pinned-tab.svg"| absURL }}" color="#eaa4a4">
+  <meta name="msapplication-TileColor" content="#eaa4a4">
+  <meta name="theme-color" content="#ffffff">
+  <!--<link rel="icon" href="{{ "images/favicon.ico" | absURL }}" type="image/x-icon" />-->
+</head>

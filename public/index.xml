@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Studio Mizutama Official Site</title>
+    <link>https://studio-mizutama.net/</link>
+    <description>Recent content on Studio Mizutama Official Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Nov 2020 02:20:06 +0900</lastBuildDate><atom:link href="https://studio-mizutama.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The official site has been launched!</title>
+      <link>https://studio-mizutama.net/news/launched_official_site/</link>
+      <pubDate>Mon, 30 Nov 2020 02:20:06 +0900</pubDate>
+      
+      <guid>https://studio-mizutama.net/news/launched_official_site/</guid>
+      <description>We have launched the official site.
+We will send out information about animation production and application development.</description>
+    </item>
+    
+    <item>
+      <title>WITH YOU</title>
+      <link>https://studio-mizutama.net/works/with-you/</link>
+      <pubDate>Sun, 29 Nov 2020 00:30:00 +0900</pubDate>
+      
+      <guid>https://studio-mizutama.net/works/with-you/</guid>
+      <description>Introduction With You / Kimi to Issho ni is a short independent animation movie launched from Japan.
+The anime illustrates young lovers&#39; runaway, struggling between life or death.</description>
+    </item>
+    
+    <item>
+      <title>ECONTE</title>
+      <link>https://studio-mizutama.net/works/econte/</link>
+      <pubDate>Sun, 29 Nov 2020 00:25:00 +0900</pubDate>
+      
+      <guid>https://studio-mizutama.net/works/econte/</guid>
+      <description>Econte is open source storyboarding tool. Make it easy to build storyboard, set sequence, timing.</description>
+    </item>
+    
+  </channel>
+</rss>

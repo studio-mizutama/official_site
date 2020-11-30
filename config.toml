@@ -1,0 +1,117 @@
+baseURL       = "https://studio-mizutama.net"
+languageCode  = "en-us"
+title         = "Studio Mizutama Official Site"
+theme         = "roxo"
+summarylength = 25
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "Home"
+    url     = ""
+    weight  = 1
+  [[menu.nav]]
+    name    = "About"
+    url     = "about"
+    weight  = 2
+  [[menu.nav]]
+    name    = "Works"
+    url     = "works"
+    weight  = 3
+  [[menu.nav]]
+    name    = "News"
+    url     = "news"
+    weight  = 4
+  [[menu.nav]]
+    name    = "Get in touch"
+    url     = "contact"
+    weight  = 5
+
+# Site Params
+[params]
+  logo = "images/mizutamalogo.svg"
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  description = "Studio Mizutama | Animation Studio With Volunteers on the Internet"
+  author = "Studio Mizutama"
+  # Google Analitycs
+  # googleAnalitycsID = "Your ID"
+  # We're using formspree.io for form handling, paste your formspree url below
+  formspreeFormUrl  = "https://formspree.io/f/minorin@studio-mizutama.net"
+  customCSS = ["/css/custom.css"]
+  og_image = "/images/card.png"
+  
+  # Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Get in touch"
+    url     = "contact"
+  
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/backgrounds/hero-background.png"
+    heading               = "Animation Studio With Volunteers on the Internet"
+    tagline               = "WE WORK HARD, WE PLAY HARD"
+    primary_button        = "See Our Works"
+    primary_button_url    = "works"
+    secondary_button      = "Connect with Us"
+    secondary_button_url  = "contact"
+
+  [params.portfolio]
+    enable    = true
+    title     = "OUR RECENT WORKS"
+    subtitle  = "We are making short animation movies and applications for animation production efficiency."
+
+  [params.call_to_action]
+    enable              = true
+    #background_image    = "images/backgrounds/cta-background.jpg"
+    title               = "LET’S WORK TOGETHER"
+    primary_button        = "See Our Works"
+    primary_button_url    = "works"
+    secondary_button      = "Connect with Us"
+    secondary_button_url  = "contact"
+
+  [params.footer]
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "Contact Info"
+      #address = "713 Elmwood St.<br>Prior Lake, MN 55372"
+      #phone   = "409-896-1444"
+      email   = "info@studio-mizutama.net"
+      # Footer Sitemap
+      [params.footer.sitemap]
+        title   = "Sitemap"
+        [[params.footer.sitemap.link]]
+          name = "About"
+          url  = "about"
+        [[params.footer.sitemap.link]]
+          name = "Works"
+          url  = "works"
+        [[params.footer.sitemap.link]]
+          name = "News"
+          url  = "news"
+        [[params.footer.sitemap.link]]
+          name = "Contact"
+          url  = "contact"
+      # Footer Social Media
+      [params.footer.social]
+        title   = "Social Media"
+        [[params.footer.social.link]]
+          name = "YouTube"
+          name_s = "youtube"
+          url  = "https://www.youtube.com/channel/UCeeMcZ9w-domt4oGO2KBjBw"
+        [[params.footer.social.link]]
+          name = "GitHub"
+          name_s = "github"
+          url  = "https://github.com/minorin22"
+        [[params.footer.social.link]]
+          name = "Twitter"
+          name_s = "twitter"
+          url  = "https://twitter.com/MinoriMizutama"
+      # Footer Service
+      [params.footer.service]
+        title       = "Our Activities"
+        description = "Animation & Motion Graphics<br>UI & UX Design<br>Application Development<br>IT Infrastructure Construction"
