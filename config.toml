@@ -106,7 +106,7 @@ summarylength = 25
         [[params.footer.social.link]]
           name = "GitHub"
           name_s = "github"
-          url  = "https://github.com/minorin22"
+          url  = "https://github.com/studio-mizutama"
         [[params.footer.social.link]]
           name = "Twitter"
           name_s = "twitter"
