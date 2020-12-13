@@ -10,7 +10,7 @@
       <div class="col-lg-6 ml-auto">
         <div class="site-contact-form">
           <h4>{{ .Params.form_heading }}</h4>
-          <form id="contact-form" action="{{ .Site.Params.formspreeFormUrl }}" method="POST">
+          <form id="contact-form" netlify>
             <div class="row">
               <!--<div class="col-lg-6">
                 <input type="text" class="form-control" name="first-name" id="first-name" placeholder="First Name">
@@ -31,10 +31,9 @@
                 </div>
               </div>-->
               <div class="col-12">
-                <textarea class="form-control" id="aboutProject" name="about-project" rows="6" placeholder="Inquiry Details"></textarea>
+                <textarea class="form-control" id="aboutProject" name="message" rows="6" placeholder="Inquiry Details"></textarea>
               </div>
               <div class="col-12">
-                <input type="hidden" name="_next" value="https://studio-mizutama.net/" />
                 <button type="submit" class="btn btn-primary" id="contact-form-button">
                   <span class="btn-area">
                     <span data-text="Send Message">
