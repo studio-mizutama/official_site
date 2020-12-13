@@ -1,4 +1,4 @@
-baseURL       = "/"
+baseURL       = "https://studio-mizutama.net/"
 languageCode  = "en-us"
 title         = "Studio Mizutama Official Site"
 theme         = "roxo"
