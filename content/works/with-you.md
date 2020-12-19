@@ -20,7 +20,7 @@ The heroine of the story, disappointed to her future and hope to die with his bo
 #### Yuki
 ![yuki](/images/works/yuki.png)
 
-Haruna's boyfriend. Takes her to the trip to Sapporo for changing her mind and live together wit her, but does not tell the purpose to her.
+Haruna's boyfriend. Takes her to the trip to Sapporo for changing her mind and live together, without telling her his purpose.
 
 ### Members
 #### Voice Actors
