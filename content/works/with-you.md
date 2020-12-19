@@ -3,7 +3,7 @@ title: "WITH YOU"
 date: 2020-11-29T00:30:00+09:00
 type: portfolio
 image: images/works/keyvisual.png
-category: ["ANIMATION MOVIE"]
+category: ["ANIMATION"]
 ---
 
 ![keyvisual](/images/works/keyvisual.png)
