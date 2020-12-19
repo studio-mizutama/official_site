@@ -3,12 +3,12 @@ title   : Members
 members  :
   - image       : https://pbs.twimg.com/profile_images/1319909775472115712/4AVJU9fi_400x400.jpg
     name        : Minorin
-    designation : Creative Director
+    #designation : Creative Director
     github      : https://github.com/minorin22
     twitter     : https://twitter.com/MinoriMizutama/
 
   - image       : https://pbs.twimg.com/profile_images/1155535756112228354/K9OoDitJ_400x400.jpg
     name        : En
-    designation : Chief Manager
+    #designation : Chief Manager
     github      : https://github.com/En-sp
     twitter     : https://twitter.com/enchandayo/
