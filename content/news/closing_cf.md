@@ -1,5 +1,5 @@
 ---
-title: "Closed Kickstarter project for "With You"/「君と一緒に」クラウドファンディングプロジェクトのクローズ"
+title: 'Closed Kickstarter project for "With You"/「君と一緒に」クラウドファンディングプロジェクトのクローズ'
 date: 2020-01-24T02:57:06+09:00
 author: En
 ---
