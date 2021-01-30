@@ -5,6 +5,11 @@
     <div class="row">
       <div class="col-lg-8 mx-auto">
         <div class="site-project-single">
+        {{ if .IsTranslated }}
+        {{ range .Translations }}
+        <a class="language" href="{{ .Permalink }}"><i class="fa fa-globe"></i>&nbsp;{{ .Lang }}</a>
+        {{ end }}
+        {{ end }}
           <h1>
             {{ .Title }}
           </h1>

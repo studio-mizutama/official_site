@@ -5,7 +5,12 @@
     <div class="row justify-content-center">
       <div class="col-lg-8">
         <article class="site-blog-details">
-          <p><span>{{ .PublishDate.Format "January 2, 2006" }}</span> by <span>{{ .Params.author }}</span></p>
+          <p><span>{{ .PublishDate.Format "January 2, 2006" }}</span> by <span>{{ .Params.author }}</span>
+          {{ if .IsTranslated }}
+          {{ range .Translations }}
+            &nbsp;<a class="language" href="{{ .Permalink }}"><i class="fa fa-globe"></i>&nbsp;{{ .Lang }}</a></p>
+          {{ end }}
+          {{ end }}
           <h2 class="blog-title">{{ .Title }}</h2>
           <!--<img class="feature-image" src="{{ .Params.feature_image | absURL }}" alt="blog-feature-image">-->
           {{ .Content }}

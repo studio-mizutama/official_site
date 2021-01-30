@@ -1,8 +1,16 @@
 baseURL       = "https://www.studio-mizutama.net/"
-languageCode  = "en-us"
+#languageCode  = "en-us"
+DefaultContentLanguage = "en"
+#DefaultContentLanguageInSubdir = true
 title         = "Studio Mizutama Official Site"
 theme         = "roxo"
 summarylength = 25
+
+[Languages]
+  [Languages.en]
+    weight = 1
+  [Languages.ja]
+    weight = 2
 
 # Site Menus
 [menu]

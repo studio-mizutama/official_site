@@ -7,4 +7,4 @@ category: ["APPLICATION"]
 ---
 
 ![econte](/images/works/econte.png)
-*Mizutama Paint* is open source storyboarding tool. Make it easy to build storyboard, set sequence, timing.
+*Mizutama Paint* はオープンソースのお絵かきアプリです。絵コンテ作成機能を実装予定です。
