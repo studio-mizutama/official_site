@@ -7,10 +7,8 @@ category: ["ANIMATION"]
 ---
 
 ![keyvisual](/images/works/keyvisual.png)
-### 概要
-「君と一緒に」は、日本発の短編オリジナルアニメです。  
-このアニメは、生と死の間で揺れ動く恋人たちの駆け落ちを物語っています。  
-北海道の札幌市が舞台です。
+### 概要 
+生と死の間で揺れ動く恋人たちの駆け落ちを描いた短編アニメです。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QQpJZVISf_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
   
@@ -23,7 +21,7 @@ category: ["ANIMATION"]
 #### 佑希
 ![yuki](/images/works/yuki.png)
 
-晴奈のボーイフレンド。彼女の気持ちを変え、一緒に生きるために札幌へ旅行に連れていく。本当の目的は話していない。
+晴奈の幼馴染。晴奈に自殺を思いとどまらせるために、本当の目的を告げずに、札幌へ旅行に連れていく。
 
 ### スタッフ・キャスト
 #### 声の出演
