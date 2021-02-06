@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.studio-mizutama.net/ja/news/</loc>
+    <lastmod>2021-02-06T09:57:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.studio-mizutama.net/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.studio-mizutama.net/ja/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.studio-mizutama.net/ja/</loc>
+    <lastmod>2021-02-06T09:57:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.studio-mizutama.net/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.studio-mizutama.net/ja/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.studio-mizutama.net/ja/news/subtitles/</loc>
+    <lastmod>2021-02-06T09:57:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.studio-mizutama.net/news/subtitles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.studio-mizutama.net/ja/news/subtitles/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.studio-mizutama.net/ja/news/closing_cf/</loc>
+    <lastmod>2021-01-24T02:57:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.studio-mizutama.net/news/closing_cf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.studio-mizutama.net/ja/news/closing_cf/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.studio-mizutama.net/ja/works/econte/</loc>
+    <lastmod>2020-11-29T00:25:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.studio-mizutama.net/works/econte/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.studio-mizutama.net/ja/works/econte/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.studio-mizutama.net/ja/works/</loc>
+    <lastmod>2020-11-29T00:25:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.studio-mizutama.net/works/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.studio-mizutama.net/ja/works/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.studio-mizutama.net/ja/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.studio-mizutama.net/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.studio-mizutama.net/ja/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.studio-mizutama.net/ja/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.studio-mizutama.net/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.studio-mizutama.net/ja/tags/"
+                />
+  </url>
+  
+</urlset>

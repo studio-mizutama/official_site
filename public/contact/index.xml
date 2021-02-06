@@ -2,10 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Studio Mizutama Official Site</title>
-    <link>https://studio-mizutama.net/contact/</link>
+    <link>https://www.studio-mizutama.net/contact/</link>
     <description>Recent content in Contact on Studio Mizutama Official Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="https://studio-mizutama.net/contact/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="https://www.studio-mizutama.net/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

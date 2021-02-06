@@ -2,27 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Studio Mizutama Official Site</title>
-    <link>https://studio-mizutama.net/news/</link>
+    <link>https://www.studio-mizutama.net/news/</link>
     <description>Recent content in News on Studio Mizutama Official Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="https://studio-mizutama.net/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="https://www.studio-mizutama.net/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>English subtitles available for With You episode 1</title>
+      <link>https://www.studio-mizutama.net/news/subtitles/</link>
+      <pubDate>Sat, 06 Feb 2021 09:57:06 +0900</pubDate>
+      
+      <guid>https://www.studio-mizutama.net/news/subtitles/</guid>
+      <description>Added English subtitles to With You episode 1 Watch on Youtube.
+ </description>
+    </item>
+    
+    <item>
+      <title>Closed Kickstarter project for &#34;With You&#34;</title>
+      <link>https://www.studio-mizutama.net/news/closing_cf/</link>
+      <pubDate>Sun, 24 Jan 2021 02:57:06 +0900</pubDate>
+      
+      <guid>https://www.studio-mizutama.net/news/closing_cf/</guid>
+      <description>Dear backers and all who supports us, We closed kickstarter project for With You. Unfortunatelly we were not able to achieve the goal though, we are still plannning to publish With You in the other format.</description>
+    </item>
+    
     <item>
       <title>Our story starts!</title>
-      <link>https://studio-mizutama.net/news/1st_episode_release/</link>
+      <link>https://www.studio-mizutama.net/news/1st_episode_release/</link>
       <pubDate>Fri, 25 Dec 2020 09:50:06 +0900</pubDate>
       
-      <guid>https://studio-mizutama.net/news/1st_episode_release/</guid>
+      <guid>https://www.studio-mizutama.net/news/1st_episode_release/</guid>
       <description>We have released the first episode of With You!
 Watch in YouTube</description>
     </item>
     
     <item>
       <title>See With You project on Kickstarter!</title>
-      <link>https://studio-mizutama.net/news/crowd_funding_is_available/</link>
+      <link>https://www.studio-mizutama.net/news/crowd_funding_is_available/</link>
       <pubDate>Thu, 24 Dec 2020 00:00:06 +0900</pubDate>
       
-      <guid>https://studio-mizutama.net/news/crowd_funding_is_available/</guid>
+      <guid>https://www.studio-mizutama.net/news/crowd_funding_is_available/</guid>
       <description>Our crowd funding is available on Kickstarter!
 The second episode of With You is leveraged by this.
 https://www.kickstarter.com/projects/studio-mizutama/kimi-to-issho-niwith-you</description>
@@ -30,10 +48,10 @@ https://www.kickstarter.com/projects/studio-mizutama/kimi-to-issho-niwith-you</d
     
     <item>
       <title>The official site has been launched!</title>
-      <link>https://studio-mizutama.net/news/launched_official_site/</link>
+      <link>https://www.studio-mizutama.net/news/launched_official_site/</link>
       <pubDate>Mon, 30 Nov 2020 02:20:06 +0900</pubDate>
       
-      <guid>https://studio-mizutama.net/news/launched_official_site/</guid>
+      <guid>https://www.studio-mizutama.net/news/launched_official_site/</guid>
       <description>We have launched the official site.
 Our latest activities are published here.</description>
     </item>

@@ -2,28 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>We are making original &lt;span&gt;animes&lt;/span&gt; and &lt;span&gt;apps&lt;/span&gt; for anime creators. on Studio Mizutama Official Site</title>
-    <link>https://studio-mizutama.net/works/</link>
+    <link>https://www.studio-mizutama.net/works/</link>
     <description>Recent content in We are making original &lt;span&gt;animes&lt;/span&gt; and &lt;span&gt;apps&lt;/span&gt; for anime creators. on Studio Mizutama Official Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="https://studio-mizutama.net/works/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="https://www.studio-mizutama.net/works/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WITH YOU</title>
-      <link>https://studio-mizutama.net/works/with-you/</link>
+      <link>https://www.studio-mizutama.net/works/with-you/</link>
       <pubDate>Sun, 29 Nov 2020 00:30:00 +0900</pubDate>
       
-      <guid>https://studio-mizutama.net/works/with-you/</guid>
+      <guid>https://www.studio-mizutama.net/works/with-you/</guid>
       <description>Introduction With You / Kimi to Issho ni is a short independent animation movie launched from Japan.
 The anime illustrates young lovers&#39; runaway, struggling between life or death.</description>
     </item>
     
     <item>
-      <title>ECONTE</title>
-      <link>https://studio-mizutama.net/works/econte/</link>
+      <title>MIZUTAMA PAINT</title>
+      <link>https://www.studio-mizutama.net/works/econte/</link>
       <pubDate>Sun, 29 Nov 2020 00:25:00 +0900</pubDate>
       
-      <guid>https://studio-mizutama.net/works/econte/</guid>
-      <description>Econte is open source storyboarding tool. Make it easy to build storyboard, set sequence, timing.</description>
+      <guid>https://www.studio-mizutama.net/works/econte/</guid>
+      <description>Mizutama Paint is open source storyboarding tool. Make it easy to build storyboard, set sequence, timing.</description>
     </item>
     
   </channel>
