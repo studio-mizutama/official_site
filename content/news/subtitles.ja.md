@@ -7,5 +7,7 @@ author: En
 「君と一緒に」第一話に英語字幕を追加しました。
 YouTubeにてご覧ください。
 
+<div class="frame">
 <iframe src="https://www.youtube.com/embed/QQpJZVISf_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 

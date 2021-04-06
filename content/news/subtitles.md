@@ -7,5 +7,7 @@ author: En
 Added English subtitles to With You episode 1
 Watch on Youtube.
 
+<div class="frame">
 <iframe src="https://www.youtube.com/embed/QQpJZVISf_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
