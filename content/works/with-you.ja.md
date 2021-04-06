@@ -10,7 +10,7 @@ category: ["ANIMATION"]
 ### 概要 
 生と死の間で揺れ動く恋人たちの駆け落ちを描いた短編アニメです。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QQpJZVISf_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe src="https://www.youtube.com/embed/QQpJZVISf_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
   
 ### キャラクター
 #### 晴奈

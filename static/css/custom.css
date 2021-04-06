@@ -30,3 +30,8 @@
 .language {
   color: #04113B;
 }
+
+iframe {
+  width: 100%;
+  margin: 0 auto;
+}
