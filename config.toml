@@ -86,7 +86,7 @@ summarylength = 25
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Contact Info"
-      #address = "713 Elmwood St.<br>Prior Lake, MN 55372"
+      address = "1-24-6 Shakujii-machi<br>Nerima-ku, Tokyo 177-0041"
       #phone   = "409-896-1444"
       email   = "info@studio-mizutama.net"
       # Footer Sitemap
@@ -108,21 +108,25 @@ summarylength = 25
       [params.footer.social]
         title   = "Social Media"
         [[params.footer.social.link]]
-          name = "YouTube"
-          name_s = "youtube"
-          url  = "https://www.youtube.com/channel/UCeeMcZ9w-domt4oGO2KBjBw"
-        [[params.footer.social.link]]
           name = "GitHub"
           name_s = "github"
           url  = "https://github.com/studio-mizutama"
         [[params.footer.social.link]]
+          name = "Qiita"
+          name_s = "search"
+          url  = "https://qiita.com/organizations/studio-mizutama"
+        [[params.footer.social.link]]
           name = "Twitter"
           name_s = "twitter"
           url  = "https://twitter.com/Studio_Mizutama"
+        [[params.footer.social.link]]
+          name = "YouTube"
+          name_s = "youtube"
+          url  = "https://www.youtube.com/channel/UCeeMcZ9w-domt4oGO2KBjBw"
       # Footer Service
       [params.footer.service]
         title       = "Our Activities"
-        description = "Animation & Motion Graphics<br>UI & UX Design<br>Application Development "
+        description = "Animation & Motion Graphics<br>Application Development<br>Web Development "
 
  [markup.goldmark.renderer]
   unsafe = true

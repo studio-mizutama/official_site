@@ -1,14 +1,18 @@
 enable  : true
 title   : Members
 members  :
-  - image       : https://pbs.twimg.com/profile_images/1366700947674591237/u_YUNHnn_400x400.jpg
-    name        : Minorin
-    #designation : Creative Director
-    github      : https://github.com/minorin22
-    twitter     : https://twitter.com/MinoriMizutama/
-
   - image       : https://pbs.twimg.com/profile_images/1390684349373173768/IYTng1jv_400x400.jpg
     name        : En
-    #designation : Chief Manager
+    url         : en
+    #designation : 
     github      : https://github.com/En-sp
+    qiita       : https://qiita.com/enforreal
     twitter     : https://twitter.com/enchandayo/
+
+  - image       : https://pbs.twimg.com/profile_images/1366700947674591237/u_YUNHnn_400x400.jpg
+    name        : Minorin
+    url         : minorin
+    #designation : 
+    github      : https://github.com/minorin22
+    qiita       : https://qiita.com/minorin22
+    twitter     : https://twitter.com/MinoriMizutama/

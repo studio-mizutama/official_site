@@ -5,5 +5,11 @@ heading       : "Feel free to <span>contact us.</span>"
 form_mail  : "Contact us via email"
 form_twitter  : "Contact us via twitter"
 ---
+Please feel free to contact us if you would like to join our association or if you would like to request a job.
 
+In addition to email, we are also open to Twitter DMs.
+
+入社希望・お仕事のご依頼等お気軽にご連絡ください。
+
+Emailの他にTwitterのDMも開放しています。
 
