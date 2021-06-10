@@ -8,6 +8,14 @@ expertise_title: "Our Activities"
 expertise_sectors: ["Animation & Motion Graphics", "Application Development", "Web Development"]
 ---
 
+### Profile
+- Name
+  - Studio Mizutama Association Inc.
+  - 一般社団法人スタジオみずたま
+- Address
+  - 1-24-6 Shakujii-machi Nerima-ku, Tokyo
+  - 東京都練馬区石神井町1丁目24番6号　パーク・ボニート石神井102
+
 ### History
 - March, 2020
   - Started activities as a self-produced animation circle by volunteers gathered through the Internet.
