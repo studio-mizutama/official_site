@@ -11,9 +11,11 @@
             </h1>
           </div>
           <div class="site-about-description">
+            <br>
             <p>
               {{ .Description }}
             </p>
+            <br>
           </div>
         </div>
       </div>
@@ -23,6 +25,9 @@
 
 <section class="site-expertise">
   <div class="container">
+    <div class="col-md-11" style="margin-bottom: 72px;">
+      <p>{{ .Params.description_ja }}</p>
+    </div>
     <div class="row">
       {{ with .Params.expertise_title }}
       <div class="col-md-5">
@@ -42,7 +47,7 @@
   </div>
 </section>
 <div class="col-lg-8 mx-auto">
-  <div class="site-project-single-description" style="margin-top: 24px">
+  <div class="site-project-single-description" style="margin-top: 36px">
     {{ .Content }}
   </div>
 </div>

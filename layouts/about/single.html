@@ -27,6 +27,29 @@
           </div>
           {{ .Content }}
         </article>
+        
+        <div class="site-project-single-action" style="display: flex; margin-top: 32px;">
+          {{ if .PrevInSection }}
+          <a href="{{.PrevInSection.Permalink}}" style="justify-content: flex-start; margin-left: 0;">
+            <img src="/images/to-top.svg" alt="prev member" style="transform: rotate(270deg); margin: auto 30px auto 0;">
+            <span class="link-area">
+              <span data-text="Prev Member">
+                Prev Member
+              </span>
+            </span>
+          </a>
+          {{ end }}
+          {{ if .NextInSection }}
+          <a href="{{.NextInSection.Permalink}}">
+            <span class="link-area">
+              <span data-text="Next Member">
+                Next Member
+              </span>
+            </span>
+            <img src="/images/to-top.svg" alt="next member">
+          </a>
+          {{ end }}
+        </div>
       </div>
     </div>
   </div>

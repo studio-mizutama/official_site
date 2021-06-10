@@ -21,8 +21,18 @@
             <img src="{{ . | absURL }}" alt="project image">
             {{ end }}
           </div>
-          {{ if .NextInSection }}
-          <div class="site-project-single-action">
+          <div class="site-project-single-action" style="display: flex;">
+            {{ if .PrevInSection }}
+            <a href="{{.PrevInSection.Permalink}}" style="justify-content: flex-start; margin-left: 0;">
+              <img src="/images/to-top.svg" alt="prev project" style="transform: rotate(270deg); margin: auto 30px auto 0;">
+              <span class="link-area">
+                <span data-text="Prev Project">
+                  Prev Project
+                </span>
+              </span>
+            </a>
+            {{ end }}
+            {{ if .NextInSection }}
             <a href="{{.NextInSection.Permalink}}">
               <span class="link-area">
                 <span data-text="Next Project">
@@ -31,8 +41,7 @@
               </span>
               <img src="/images/to-top.svg" alt="next project">
             </a>
-          </div>
-          {{ end }}
+            {{ end }}
         </div>
       </div>
     </div>

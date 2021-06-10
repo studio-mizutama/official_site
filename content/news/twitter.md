@@ -6,5 +6,5 @@ author: En
 
 Visit, follow, and spread.
 
-<i class="fa fa-twitter"><a href="https://twitter.com/studio_mizutama?s=21">Twitter</a></i>
+<i class="fa fa-twitter"></i> [Twitter](https://twitter.com/studio_mizutama)
 
