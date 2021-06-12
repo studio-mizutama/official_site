@@ -4,7 +4,7 @@ name        : Minorin
 designation : Director / 代表理事
 github      : https://github.com/minorin22
 qiita       : https://qiita.com/minorin22
-twitter     : https://twitter.com/MinoriMizutama/
+#twitter     : https://twitter.com/MinoriMizutama/
 ---
 
 #### Skill

@@ -4,5 +4,5 @@ name        : En
 designation : Director / 代表理事
 github      : https://github.com/En-sp
 qiita       : https://qiita.com/enforreal
-twitter     : https://twitter.com/enchandayo/
+#twitter     : https://twitter.com/enchandayo/
 ---
