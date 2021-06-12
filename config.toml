@@ -1,4 +1,4 @@
-baseURL       = "https://www.studio-mizutama.net/"
+baseURL       = "https://studio-mizutama.net/"
 #languageCode  = "en-us"
 DefaultContentLanguage = "en"
 #DefaultContentLanguageInSubdir = true
