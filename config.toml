@@ -70,6 +70,11 @@ canonifyurls  = true
     secondary_button      = "Connect with Us"
     secondary_button_url  = "contact"
 
+  [params.about]
+    enable    = true
+    title     = "ABOUT US"
+    subtitle  = "Studio Mizutama produces animation and other video works, applications for video production, and web media. Our goal is to contribute to the promotion of the digital media production field by publishing the results and the technical knowledge gained through the production. We publish them on GitHub and Qiita."
+
   [params.portfolio]
     enable    = true
     title     = "OUR RECENT WORKS"
