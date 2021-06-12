@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Us on Studio Mizutama Official Site</title>
+    <link>https://www.studio-mizutama.net/about/</link>
+    <description>Recent content in About Us on Studio Mizutama Official Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="https://www.studio-mizutama.net/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://www.studio-mizutama.net/about/en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studio-mizutama.net/about/en/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.studio-mizutama.net/about/minorin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studio-mizutama.net/about/minorin/</guid>
+      <description>Skill  JavaScript, TypeScript HTML, CSS Adobe After Effects, Premiere Pro, Photoshop Clip Studio Paint Live2D  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,6 +5,8 @@ DefaultContentLanguage = "en"
 title         = "Studio Mizutama Official Site"
 theme         = "roxo"
 summarylength = 25
+publishDir = "docs"
+canonifyurls = true
 
 [Languages]
   [Languages.en]

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Studio Mizutama Official Site</title>
+    <link>https://www.studio-mizutama.net/ja/works/</link>
+    <description>Recent content in Works on Studio Mizutama Official Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 29 Nov 2020 00:30:00 +0900</lastBuildDate><atom:link href="https://www.studio-mizutama.net/ja/works/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WITH YOU</title>
+      <link>https://www.studio-mizutama.net/ja/works/with-you/</link>
+      <pubDate>Sun, 29 Nov 2020 00:30:00 +0900</pubDate>
+      
+      <guid>https://www.studio-mizutama.net/ja/works/with-you/</guid>
+      <description>概要 生と死の間で揺れ動く恋人たちの駆け落ちを描いた短編アニメです。
+  キャラクター 晴奈 この作品のヒロイン。将来に絶望し、幼馴染の佑希と一緒に死にたいと思っている。
+佑希 晴奈の幼馴染。晴奈に自殺を思いとどまらせるために、本当の目的を告げずに、札幌へ旅行に連れていく。
+スタッフ・キャスト 声の出演  陽田旭 仮屋美希  制作スタッフ 脚本  紀州桜玲  キャラクターデザイン  ウンモ  絵コンテ  三田カイテ  音楽  雨宮廉  作画  えん 牛タン きのこ先生  作画協力  古賀十兵衛 外鯨 たきぎ びとん ありのす  効果音素材  ポケットサウンド  プラグイン協力  bry-ful  撮影  みのりん  編集  みのりん  監督  みのりん  </description>
+    </item>
+    
+    <item>
+      <title>MIZUTAMA PAINT</title>
+      <link>https://www.studio-mizutama.net/ja/works/econte/</link>
+      <pubDate>Sun, 29 Nov 2020 00:25:00 +0900</pubDate>
+      
+      <guid>https://www.studio-mizutama.net/ja/works/econte/</guid>
+      <description>Mizutama Paint はオープンソースのお絵かきアプリです。絵コンテ作成機能を実装予定です。</description>
+    </item>
+    
+  </channel>
+</rss>
