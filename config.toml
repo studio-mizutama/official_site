@@ -3,7 +3,6 @@ baseURL       = "https://studio-mizutama.net/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguageInSubdir = true
 title         = "Studio Mizutama Official Site"
-description   = "Studio Mizutama produces animation and other video works, applications for video production, and web media. Our goal is to contribute to the promotion of the digital media production field by publishing the results and the technical knowledge gained through the production. We publish them on GitHub and Qiita."
 theme         = "roxo"
 summarylength = 25
 publishDir    = "docs"
@@ -44,8 +43,8 @@ canonifyurls  = true
   logo = "images/mizutamalogo.svg"
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "Studio Mizutama | Online Animation Studio"
-  author = "Studio Mizutama"
+  description = "Studio Mizutama produces animation and other video works, applications for video production, and web media."
+  author = "Studio Mizutama Association Inc."
   # Google Analitycs
   # googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
